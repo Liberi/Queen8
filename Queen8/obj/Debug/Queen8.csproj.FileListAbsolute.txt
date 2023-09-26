@@ -1,0 +1,11 @@
+C:\Users\7102a\source\repos\Queen8\bin\Debug\Queen8.exe.config
+C:\Users\7102a\source\repos\Queen8\bin\Debug\Queen8.exe
+C:\Users\7102a\source\repos\Queen8\bin\Debug\Queen8.pdb
+C:\Users\7102a\source\repos\Queen8\obj\Debug\Queen8.csproj.AssemblyReference.cache
+C:\Users\7102a\source\repos\Queen8\obj\Debug\Queen8.csproj.SuggestedBindingRedirects.cache
+C:\Users\7102a\source\repos\Queen8\obj\Debug\Queen8.Properties.Resources.resources
+C:\Users\7102a\source\repos\Queen8\obj\Debug\Queen8.csproj.GenerateResource.cache
+C:\Users\7102a\source\repos\Queen8\obj\Debug\Queen8.csproj.CoreCompileInputs.cache
+C:\Users\7102a\source\repos\Queen8\obj\Debug\Queen8.exe
+C:\Users\7102a\source\repos\Queen8\obj\Debug\Queen8.pdb
+C:\Users\7102a\source\repos\Queen8\obj\Debug\Queen8.Queen8.resources
